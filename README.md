@@ -1,4 +1,7 @@
+# ASEP Package for the Dynamics of Molecular Motors
+
 Thank you for using our package, we hope you find it interesting and useful!
+
 --Daniel Celis Garza, Hamid Teimouri, and Anatoly Kolomeisky.
 
 You can read the paper published as a corollary of these codes [here](http://python.rice.edu/~kolomeisky/articles/J.stat.mech_P04013.pdf). The relevant codes have not yet been released because they serve the basis for the study of increasingly complex systems at the Kolomeisky group.
