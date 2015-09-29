@@ -1,6 +1,6 @@
 Thank you for using our package, we hope you find it interesting and useful!
 Daniel Celis Garza, Hamid Teimouri, and Anatoly Kolomeisky.
-You can read the paper published as a corollary of these codoes [here](http://python.rice.edu/~kolomeisky/articles/J.stat.mech_P04013.pdf). The relevant codes have not yet been released as they serve the basis for further study of increasingly complex systems.
+You can read the paper published as a corollary of these codes [here](http://python.rice.edu/~kolomeisky/articles/J.stat.mech_P04013.pdf). The relevant codes have not yet been released as they serve the basis for further study of increasingly complex systems.
 
 This readme file contains instructions and explanations of the parameters used in the codes.
 
